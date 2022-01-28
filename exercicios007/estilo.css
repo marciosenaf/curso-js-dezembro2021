@@ -1,0 +1,16 @@
+body {
+    background: rgb(228, 121, 20);
+    font:normal 15pt Arial ;
+    text-align: center;
+    }
+    header {
+    color: white;
+    text-align: center;
+    }
+    
+    footer {
+        color: white;
+     text-align: center;
+     font-style: italic ;
+    }
+    
